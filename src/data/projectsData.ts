@@ -12,13 +12,13 @@ const projectsData = [
       { title: "CS2 Nades", description: "Utility app for Counter-Strike 2 players", date: "Published 2024" },
       { title: "GRE Flashcards", description: "Educational app for GRE preparation", date: "Published 2024" },
     ],
-    image: "../../assets/adddev.jpg",
+    image: "/adddev.jpg",
     mobileApps: [
       {
         name: "Marriage Point Calculator",
         description: "A calculator app for game of card.",
         url: "https://play.google.com/store/apps/details?id=com.abhiyanpoudel.mcgc",
-        icon: "../../assets/mgpc.png",
+        icon: "/mgpc.png",
         stats: {
           downloads: "500+",
           rating: "4.7",
@@ -29,7 +29,7 @@ const projectsData = [
         name: "CS2 Nades",
         description: "Utility app for Counter-Strike 2 players to learn grenade spots and strategies.",
         url: "https://play.google.com/store/apps/details?id=com.abhiyanpoudel.cs2_nade",
-        icon: "../../assets/cs.png",
+        icon: "/cs.png",
         stats: {
           downloads: "1,000+",
           rating: "4.8",
@@ -40,7 +40,7 @@ const projectsData = [
         name: "GRE Flashcards",
         description: "An educational app with flashcards to help with GRE vocabulary preparation.",
         url: "https://play.google.com/store/apps/details?id=com.abhiyanpoudel.gre_flashcards",
-        icon: "../../assets/gre.jpg",
+        icon: "/gre.jpg",
         stats: {
           downloads: "10+",
           rating: "4.7",
@@ -63,11 +63,11 @@ const projectsData = [
     ],
     slideshow: true, // Flag to show slideshow instead of static image
     images: [
-      "../../assets/mainx.png",
-      "../../assets/nike.jpg",
-      "../../assets/reel.jpg",
-      "../../assets/untitled-2.jpg",
-      "../../assets/untitled-3.jpg"
+      "/mainx.png",
+      "/nike.jpg",
+      "/reel.jpg",
+      "/untitled-2.jpg",
+      "/untitled-3.jpg"
       
     ],
     designWorks: [
