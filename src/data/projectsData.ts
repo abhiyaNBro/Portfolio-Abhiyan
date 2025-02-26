@@ -134,7 +134,7 @@ const projectsData = [
       { title: "Mobile Development", description: "Android application projects", date: "Various dates" }
     ],
     repos: [
-      [
+      
         { 
           "name": "ChurnIT - Customer Churn Prediction", 
           "description": "A machine learning-based system to predict customer churn using various data-driven insights and analytics.",
@@ -215,7 +215,7 @@ const projectsData = [
             "watchers": 2
           }
         }
-      ]
+      
       
     ],
     image: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=2088&auto=format&fit=crop",
