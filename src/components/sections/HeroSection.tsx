@@ -51,7 +51,7 @@ export function HeroSection() {
             as="div"
           >
             <img
-              src="/profile.jpg"
+              src="/profile-2.png"
               alt="Abhiyan Poudel"
               className="w-full h-full object-cover rounded-full"
             />
