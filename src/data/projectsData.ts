@@ -134,86 +134,89 @@ const projectsData = [
       { title: "Mobile Development", description: "Android application projects", date: "Various dates" }
     ],
     repos: [
-      { 
-        name: "ChurnIT - Customer Churn Prediction", 
-        description: "A mining concentration calculator for Android. It can calculate and store metal concentration formula calculations.", 
-        url: "https://github.com/abhiyaNBro/ChurnIT",
-        stats: {
-          stars: 5,
-          forks: 2,
-          watchers: 3
+      [
+        { 
+          "name": "ChurnIT - Customer Churn Prediction", 
+          "description": "A machine learning-based system to predict customer churn using various data-driven insights and analytics.",
+          "url": "https://github.com/abhiyaNBro/ChurnIT",
+          "stats": {
+            "stars": 5,
+            "forks": 2,
+            "watchers": 3
+          }
+        },
+        { 
+          "name": "Marriage-CardGame-Calculator", 
+          "description": "A calculator designed for the popular Marriage Card Game, helping players track points, scores, and game rules efficiently.",
+          "url": "https://github.com/abhiyaNBro/Marriage-CardGame-Calculator",
+          "stats": {
+            "stars": 12,
+            "forks": 3,
+            "watchers": 5
+          }
+        },
+        { 
+          "name": "Amazon-Clone-Frontend", 
+          "description": "A front-end clone of the Amazon website built with modern web technologies, providing a similar UI and functionality.",
+          "url": "https://github.com/abhiyaNBro/Amazon-Clone-Frontend",
+          "stats": {
+            "stars": 8,
+            "forks": 1,
+            "watchers": 2
+          }
+        },
+        { 
+          "name": "To-Do-List", 
+          "description": "A simple and interactive To-Do List application for task management and productivity enhancement.",
+          "url": "https://github.com/abhiyaNBro/To-Do-List",
+          "stats": {
+            "stars": 3,
+            "forks": 0,
+            "watchers": 1
+          }
+        },
+        { 
+          "name": "Tic-Tac-Toe", 
+          "description": "A classic Tic-Tac-Toe game built using JavaScript, allowing users to play against each other or an AI opponent.",
+          "url": "https://github.com/abhiyaNBro/Tic-Tac-Toe",
+          "stats": {
+            "stars": 7,
+            "forks": 2,
+            "watchers": 4
+          }
+        },
+        { 
+          "name": "SimonGame", 
+          "description": "A web-based implementation of the Simon Game, testing memory skills through a pattern-matching challenge.",
+          "url": "https://github.com/abhiyaNBro/SimonGame",
+          "stats": {
+            "stars": 6,
+            "forks": 1,
+            "watchers": 3
+          }
+        },
+        { 
+          "name": "FlashCard", 
+          "description": "A flashcard-based learning tool designed to help users memorize concepts, vocabulary, and other study materials.",
+          "url": "https://github.com/abhiyaNBro/FlashCard",
+          "stats": {
+            "stars": 4,
+            "forks": 1,
+            "watchers": 2
+          }
+        },
+        { 
+          "name": "DrumKit", 
+          "description": "An interactive virtual drum kit that allows users to play drum sounds using keyboard inputs or mouse clicks.",
+          "url": "https://github.com/abhiyaNBro/DrumKit",
+          "stats": {
+            "stars": 5,
+            "forks": 1,
+            "watchers": 2
+          }
         }
-      },
-      { 
-        name: "Marriage-CardGame-Calculator", 
-        description: "Application for learning Counter-Strike 2 grenade lineups and strategies", 
-        url: "https://github.com/abhiyaNBro/Marriage-CardGame-Calculator",
-        stats: {
-          stars: 12,
-          forks: 3,
-          watchers: 5
-        }
-      },
-      { 
-        name: "Amazon-Clone-Frontend", 
-        description: "Android kernel source code for OnePlus 8 series devices", 
-        url: "https://github.com/abhiyaNBro/Amazon-Clone-Frontend",
-        stats: {
-          stars: 8,
-          forks: 1,
-          watchers: 2
-        }
-      },
-      { 
-        name: "To-Do-List", 
-        description: "Flashcard application for GRE vocabulary preparation", 
-        url: "https://github.com/abhiyaNBro/To-Do-List",
-        stats: {
-          stars: 3,
-          forks: 0,
-          watchers: 1
-        }
-      },
-      { 
-        name: "Tic-Tac-Toe", 
-        description: "Personal portfolio website built with React and Tailwind CSS", 
-        url: "https://github.com/abhiyaNBro/Tic-Tac-Toe",
-        stats: {
-          stars: 7,
-          forks: 2,
-          watchers: 4
-        }
-      },
-      { 
-        name: "SimonGame", 
-        description: "Mobile app for wildcat crypto token investigation and analysis", 
-        url: "https://github.com/abhiyaNBro/SimonGame",
-        stats: {
-          stars: 6,
-          forks: 1,
-          watchers: 3
-        }
-      },
-      { 
-        name: "FlashCard", 
-        description: "Collection of various Python scripts and small applications", 
-        url: "https://github.com/abhiyaNBro/FlashCard",
-        stats: {
-          stars: 4,
-          forks: 1,
-          watchers: 2
-        }
-      },
-      { 
-        name: "DrumKit", 
-        description: "Blog site built with Next.js and MDX for content management", 
-        url: "https://github.com/abhiyaNBro/DrumKit",
-        stats: {
-          stars: 5,
-          forks: 1,
-          watchers: 2
-        }
-      }
+      ]
+      
     ],
     image: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=2088&auto=format&fit=crop",
     liveUrl: "https://github.com/abhiyaNBro",
